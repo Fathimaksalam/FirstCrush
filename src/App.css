@@ -1,0 +1,14 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #f9f9f9, #d3f5c2);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  width: 100%;
+  max-width: 400px;
+}
